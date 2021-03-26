@@ -16,7 +16,7 @@ composer install
 php bin/console doctrine:database:create
 # crée les tables
 php bin/console doctrine:schema:update --force
-# importe les données de série et de saisons
+# importe les données de séries et de saisons
 php bin/console doctrine:fixtures:load
 ```
 
