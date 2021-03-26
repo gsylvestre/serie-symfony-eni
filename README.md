@@ -9,7 +9,7 @@ cd /Wamp64/www/
 # clone ce projet depuis github
 git clone https://github.com/gsylvestre/serie-symfony-eni
 # on se déplace dans le nouveau répertoire créé  
-cd series-symfony-eni/
+cd serie-symfony-eni/
 # télécharge les dépendances composer
 composer install  
 # crée la bdd telle que configurée dans le fichier .env
